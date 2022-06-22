@@ -1,0 +1,199 @@
+
+Current time: 0
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: []
+Average waiting time in real time: 0.0
+Current time: 1
+Queue: 0 clients waiting: [1 2 1 , 29 2 1 , 13 2 2 ]
+Queue: 1 clients waiting: [22 2 4 ]
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [20 2 1 , 43 2 1 ]
+Queue: 4 clients waiting: [47 2 1 ]
+Average waiting time in real time: 3.2
+Current time: 2
+Queue: 0 clients waiting: [29 2 1 , 13 2 2 , 33 3 1 , 45 3 1 , 32 3 5 ]
+Queue: 1 clients waiting: [22 2 3 , 0 3 6 ]
+Queue: 2 clients waiting: [24 3 1 , 35 3 1 , 8 3 2 , 10 3 6 ]
+Queue: 3 clients waiting: [43 2 1 , 4 3 1 , 25 3 1 , 37 3 1 , 18 3 3 ]
+Queue: 4 clients waiting: [23 3 1 , 31 3 1 , 41 3 1 , 21 3 4 ]
+Average waiting time in real time: 9.6
+Current time: 3
+Queue: 0 clients waiting: [13 2 2 , 33 3 1 , 45 3 1 , 32 3 5 ]
+Queue: 1 clients waiting: [22 2 2 , 0 3 6 ]
+Queue: 2 clients waiting: [35 3 1 , 8 3 2 , 10 3 6 ]
+Queue: 3 clients waiting: [4 3 1 , 25 3 1 , 37 3 1 , 18 3 3 , 5 4 1 , 40 4 1 ]
+Queue: 4 clients waiting: [31 3 1 , 41 3 1 , 21 3 4 , 48 4 1 ]
+Average waiting time in real time: 9.2
+Current time: 4
+Queue: 0 clients waiting: [13 2 1 , 33 3 1 , 45 3 1 , 32 3 5 ]
+Queue: 1 clients waiting: [22 2 1 , 0 3 6 ]
+Queue: 2 clients waiting: [8 3 2 , 10 3 6 ]
+Queue: 3 clients waiting: [25 3 1 , 37 3 1 , 18 3 3 , 5 4 1 , 40 4 1 ]
+Queue: 4 clients waiting: [41 3 1 , 21 3 4 , 48 4 1 ]
+Average waiting time in real time: 8.2
+Current time: 5
+Queue: 0 clients waiting: [33 3 1 , 45 3 1 , 32 3 5 , 44 6 6 ]
+Queue: 1 clients waiting: [0 3 6 ]
+Queue: 2 clients waiting: [8 3 1 , 10 3 6 ]
+Queue: 3 clients waiting: [37 3 1 , 18 3 3 , 5 4 1 , 40 4 1 , 38 6 1 ]
+Queue: 4 clients waiting: [21 3 4 , 48 4 1 , 9 6 3 ]
+Average waiting time in real time: 9.2
+Current time: 6
+Queue: 0 clients waiting: [45 3 1 , 32 3 5 , 44 6 6 ]
+Queue: 1 clients waiting: [0 3 5 ]
+Queue: 2 clients waiting: [10 3 6 ]
+Queue: 3 clients waiting: [18 3 3 , 5 4 1 , 40 4 1 , 38 6 1 ]
+Queue: 4 clients waiting: [21 3 3 , 48 4 1 , 9 6 3 ]
+Average waiting time in real time: 8.2
+Current time: 7
+Queue: 0 clients waiting: [32 3 5 , 44 6 6 ]
+Queue: 1 clients waiting: [0 3 4 ]
+Queue: 2 clients waiting: [10 3 5 ]
+Queue: 3 clients waiting: [18 3 2 , 5 4 1 , 40 4 1 , 38 6 1 ]
+Queue: 4 clients waiting: [21 3 2 , 48 4 1 , 9 6 3 ]
+Average waiting time in real time: 7.2
+Current time: 8
+Queue: 0 clients waiting: [32 3 4 , 44 6 6 ]
+Queue: 1 clients waiting: [0 3 3 , 34 9 1 ]
+Queue: 2 clients waiting: [10 3 4 ]
+Queue: 3 clients waiting: [18 3 1 , 5 4 1 , 40 4 1 , 38 6 1 , 12 9 1 ]
+Queue: 4 clients waiting: [21 3 1 , 48 4 1 , 9 6 3 ]
+Average waiting time in real time: 6.6
+Current time: 9
+Queue: 0 clients waiting: [32 3 3 , 44 6 6 ]
+Queue: 1 clients waiting: [0 3 2 , 34 9 1 ]
+Queue: 2 clients waiting: [10 3 3 ]
+Queue: 3 clients waiting: [5 4 1 , 40 4 1 , 38 6 1 , 12 9 1 ]
+Queue: 4 clients waiting: [48 4 1 , 9 6 3 ]
+Average waiting time in real time: 5.6
+Current time: 10
+Queue: 0 clients waiting: [32 3 2 , 44 6 6 ]
+Queue: 1 clients waiting: [0 3 1 , 34 9 1 , 19 11 3 ]
+Queue: 2 clients waiting: [10 3 2 ]
+Queue: 3 clients waiting: [40 4 1 , 38 6 1 , 12 9 1 , 49 11 2 ]
+Queue: 4 clients waiting: [9 6 3 ]
+Average waiting time in real time: 5.6
+Current time: 11
+Queue: 0 clients waiting: [32 3 1 , 44 6 6 ]
+Queue: 1 clients waiting: [34 9 1 , 19 11 3 ]
+Queue: 2 clients waiting: [10 3 1 ]
+Queue: 3 clients waiting: [38 6 1 , 12 9 1 , 49 11 2 ]
+Queue: 4 clients waiting: [9 6 2 ]
+Average waiting time in real time: 4.6
+Current time: 12
+Queue: 0 clients waiting: [44 6 6 ]
+Queue: 1 clients waiting: [19 11 3 ]
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [12 9 1 , 49 11 2 ]
+Queue: 4 clients waiting: [9 6 1 ]
+Average waiting time in real time: 3.6
+Current time: 13
+Queue: 0 clients waiting: [44 6 5 ]
+Queue: 1 clients waiting: [19 11 2 ]
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [49 11 2 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.8
+Current time: 14
+Queue: 0 clients waiting: [44 6 4 ]
+Queue: 1 clients waiting: [19 11 1 ]
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [49 11 1 , 39 15 1 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.4
+Current time: 15
+Queue: 0 clients waiting: [44 6 3 ]
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [39 15 1 , 15 16 1 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.0
+Current time: 16
+Queue: 0 clients waiting: [44 6 2 ]
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [15 16 1 , 36 17 3 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.2
+Current time: 17
+Queue: 0 clients waiting: [44 6 1 , 11 18 1 , 46 18 1 ]
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [36 17 3 ]
+Queue: 4 clients waiting: [17 18 1 ]
+Average waiting time in real time: 3.6
+Current time: 18
+Queue: 0 clients waiting: [11 18 1 , 46 18 1 ]
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [36 17 2 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 3.0
+Current time: 19
+Queue: 0 clients waiting: [46 18 1 ]
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [36 17 1 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.6
+Current time: 20
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.8
+Current time: 21
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: []
+Average waiting time in real time: 2.8
+Current time: 22
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: [6 23 1 ]
+Queue: 4 clients waiting: []
+Average waiting time in real time: 3.0
+Current time: 23
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: []
+Average waiting time in real time: 3.2
+Current time: 24
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: []
+Average waiting time in real time: 3.2
+Current time: 25
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: [16 26 1 ]
+Average waiting time in real time: 3.4
+Current time: 26
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: [14 27 1 ]
+Average waiting time in real time: 3.4
+Current time: 27
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Queue: 2 clients waiting: []
+Queue: 3 clients waiting: []
+Queue: 4 clients waiting: []
+
+Average waiting time: 1.88
+Peak hour: 3

@@ -1,0 +1,71 @@
+
+Current time: 0
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+Average waiting time in real time: 0.0
+Current time: 1
+Queue: 0 clients waiting: [9 2 2 , 8 2 4 ]
+Queue: 1 clients waiting: []
+Average waiting time in real time: 4.5
+Current time: 2
+Queue: 0 clients waiting: [9 2 1 , 8 2 4 , 1 3 3 ]
+Queue: 1 clients waiting: [3 3 2 , 6 3 3 ]
+Average waiting time in real time: 8.0
+Current time: 3
+Queue: 0 clients waiting: [8 2 4 , 1 3 3 , 5 4 3 ]
+Queue: 1 clients waiting: [3 3 1 , 6 3 3 ]
+Average waiting time in real time: 8.5
+Current time: 4
+Queue: 0 clients waiting: [8 2 3 , 1 3 3 , 5 4 3 ]
+Queue: 1 clients waiting: [6 3 3 , 4 5 2 ]
+Average waiting time in real time: 8.5
+Current time: 5
+Queue: 0 clients waiting: [8 2 2 , 1 3 3 , 5 4 3 ]
+Queue: 1 clients waiting: [6 3 2 , 4 5 2 , 2 6 2 ]
+Average waiting time in real time: 8.5
+Current time: 6
+Queue: 0 clients waiting: [8 2 1 , 1 3 3 , 5 4 3 , 0 7 3 ]
+Queue: 1 clients waiting: [6 3 1 , 4 5 2 , 2 6 2 ]
+Average waiting time in real time: 9.0
+Current time: 7
+Queue: 0 clients waiting: [1 3 3 , 5 4 3 , 0 7 3 ]
+Queue: 1 clients waiting: [4 5 2 , 2 6 2 ]
+Average waiting time in real time: 8.0
+Current time: 8
+Queue: 0 clients waiting: [1 3 2 , 5 4 3 , 0 7 3 ]
+Queue: 1 clients waiting: [4 5 1 , 2 6 2 ]
+Average waiting time in real time: 7.0
+Current time: 9
+Queue: 0 clients waiting: [1 3 1 , 5 4 3 , 0 7 3 ]
+Queue: 1 clients waiting: [2 6 2 ]
+Average waiting time in real time: 6.0
+Current time: 10
+Queue: 0 clients waiting: [5 4 3 , 0 7 3 ]
+Queue: 1 clients waiting: [2 6 1 ]
+Average waiting time in real time: 5.0
+Current time: 11
+Queue: 0 clients waiting: [5 4 2 , 0 7 3 ]
+Queue: 1 clients waiting: []
+Average waiting time in real time: 4.0
+Current time: 12
+Queue: 0 clients waiting: [5 4 1 , 0 7 3 ]
+Queue: 1 clients waiting: []
+Average waiting time in real time: 3.5
+Current time: 13
+Queue: 0 clients waiting: [0 7 3 ]
+Queue: 1 clients waiting: []
+Average waiting time in real time: 3.0
+Current time: 14
+Queue: 0 clients waiting: [0 7 2 ]
+Queue: 1 clients waiting: []
+Average waiting time in real time: 2.5
+Current time: 15
+Queue: 0 clients waiting: [0 7 1 ]
+Queue: 1 clients waiting: []
+Average waiting time in real time: 2.0
+Current time: 16
+Queue: 0 clients waiting: []
+Queue: 1 clients waiting: []
+
+Average waiting time: 2.7
+Peak hour: 2
